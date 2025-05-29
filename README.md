@@ -48,7 +48,6 @@ Business Data Analytics student at Arizona State University, passionate about so
 
 ---
 
-> *“Don’t just analyze data. Understand it, build with it, and create systems that last.”*
 <!--
 **anurag-mish/anurag-mish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
